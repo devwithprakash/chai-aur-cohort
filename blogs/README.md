@@ -1,0 +1,261 @@
+<a href="https://hashnode.com/@prakash-devx">
+  <h1 align="center">Blogs</h1>
+</a>
+
+<p align="center">
+  Showcasing my journey of learning through reading, understanding and writing blogs
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/devwithprakash/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/risewithprakash">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://hashnode.com/@prakash-devx">
+    <img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+### [Why Version Control Exists: The Pendrive Problem](https://life-of-developers-before-git.hashnode.dev/why-version-control-exists-the-pendrive-problem)
+
+  <a href="https://life-of-developers-before-git.hashnode.dev/why-version-control-exists-the-pendrive-problem">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/git-the-pendrive-problem.png">
+    <p>
+  </a>
+
+<br>
+
+### [Git for Beginners: Basics and Essential Commands](https://why-git-dominates-version-control.hashnode.dev/git-for-beginners-basics-and-essential-commands)
+
+  <a href="https://why-git-dominates-version-control.hashnode.dev/git-for-beginners-basics-and-essential-commands">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/git-for-beginners.png">
+    <p>
+  </a>
+
+<br>
+
+### [How Git Works Behind the Scenes and the .git Folder](https://how-git-tracks-changes-internally.hashnode.dev/how-git-works-behind-the-scenes-and-the-git-folder)
+
+  <a href="https://how-git-tracks-changes-internally.hashnode.dev/how-git-works-behind-the-scenes-and-the-git-folder">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/how-git-works-behind-the-scenes.png">
+    <p>
+  </a>
+
+<br>
+
+### [The Role of Network Devicesl](https://role-of-network-devices.hashnode.dev/how-the-internet-reaches-our-home-the-role-of-network-devices)
+
+  <a href="https://role-of-network-devices.hashnode.dev/how-the-internet-reaches-our-home-the-role-of-network-devices">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/role-of-network-device.png">
+    <p>
+  </a>
+
+<br>
+
+### [DNS Record Types Explained](https://what-is-dns-and-record-types.hashnode.dev/dns-record-types-explained)
+
+  <a href="https://what-is-dns-and-record-types.hashnode.dev/dns-record-types-explained">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/DNS-records.png"
+    <p>
+  </a>
+
+<br>
+
+### [DNS Name Resolution Explained Using the dig Command](https://dns-resolution-using-dig.hashnode.dev/dns-name-resolution-explained-using-the-dig-command)
+
+  <a href="https://dns-resolution-using-dig.hashnode.dev/dns-name-resolution-explained-using-the-dig-command">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/DNS-and-dig-command.png">
+    <p>
+  </a>
+
+<br>
+
+### [What is cURL and Why Programmers need cURL](https://why-every-programmer-should-know-curl.hashnode.dev/what-is-curl-and-why-programmers-need-curl)
+
+  <a href="https://why-every-programmer-should-know-curl.hashnode.dev/what-is-curl-and-why-programmers-need-curl">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/curl-command.png">
+    <p>
+  </a>
+
+<br>
+
+### [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://tcp-vs-udp-use-cases-explained.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+
+  <a href="https://tcp-vs-udp-use-cases-explained.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/tcp-vs-udp.png">
+    <p>
+  </a>
+
+<br>
+
+### [TCP Working: 3-Way Handshake & Reliable Communication](https://tcp-handshake-and-reliable-transfer.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
+
+  <a href="https://tcp-handshake-and-reliable-transfer.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/tcp-connection.png">
+    <p>
+  </a>
+
+<br>
+
+### [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://how-a-browser-works-behind-the-scenes.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals)
+
+  <a href="https://how-a-browser-works-behind-the-scenes.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/browser-internal-working.png">
+    <p>
+  </a>
+
+<br>
+
+### [Understanding HTML Tags and Elements](https://html-basics-tags-and-elements.hashnode.dev/understanding-html-tags-and-elements)
+
+  <a href="https://html-basics-tags-and-elements.hashnode.dev/understanding-html-tags-and-elements">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/html-tags-and-element.png">
+    <p>
+  </a>
+
+<br>
+
+### [CSS Selectors 101: Targeting Elements with Precision](https://css-selectors-101-precision-targeting.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
+
+  <a href="https://css-selectors-101-precision-targeting.hashnode.dev/css-selectors-101-targeting-elements-with-precision">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/css-selectors.jpeg">
+    <p>
+  </a>
+
+<br>
+
+### [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://emmet-for-html-write-faster-markup.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup)
+
+  <a href="https://emmet-for-html-write-faster-markup.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/html-emmet.jpeg">
+    <p>
+  </a>
+
+<br>
+
+### [Promises in JavaScript with Multiverse Stories](https://promises-in-js.hashnode.dev/promises-in-javascript-with-multiverse-stories)
+
+  <a href="https://promises-in-js.hashnode.dev/promises-in-javascript-with-multiverse-stories">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/js-promises.png">
+    <p>
+  </a>
+
+<br>
+
+### [JavaScript Operators: The Building Blocks of Logic](https://js-blogs.hashnode.dev/javascript-operators-the-building-blocks-of-logic)
+
+  <a href="https://js-blogs.hashnode.dev/javascript-operators-the-building-blocks-of-logic">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/js-operators.png">
+    <p>
+  </a>
+
+<br>
+
+### [Understanding Variables and Data Types in JavaScript](https://js-blogs.hashnode.dev/understanding-variables-and-data-types-in-javascript)
+
+  <a href="https://js-blogs.hashnode.dev/understanding-variables-and-data-types-in-javascript">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/js-variables.png">
+    <p>
+  </a>
+
+<br>
+
+### [JavaScript Arrays 101](https://js-blogs.hashnode.dev/javascript-arrays-101)
+
+  <a href="https://js-blogs.hashnode.dev/javascript-arrays-101">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/js-array-101.png">
+    <p>
+  </a>
+
+<br>
+
+### [Array Methods You Must Know](https://js-blogs.hashnode.dev/array-methods-you-must-know)
+
+  <a href="https://js-blogs.hashnode.dev/array-methods-you-must-know">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/array-methods.png">
+    <p>
+  </a>
+
+<br>
+
+### [Control Flow in JavaScript: If, Else, and Switch Explained](https://js-blogs.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained)
+
+  <a href="https://js-blogs.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/control-flow.png">
+    <p>
+  </a>
+
+<br>
+
+### [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://js-blogs.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions)
+
+  <a href="https://js-blogs.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/arrow-functions.png">
+    <p>
+  </a>
+
+<br>
+
+### [Function Declaration vs Function Expression: What’s the Difference?](https://js-blogs.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference)
+
+  <a href="https://js-blogs.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/function-declaration-and expression.png">
+    <p>
+  </a>
+
+<br>
+
+### [The Magic of this, call(), apply(), and bind() in JavaScript](https://js-blogs.hashnode.dev/the-magic-of-this-call-apply-and-bind-in-javascript)
+
+  <a href="https://js-blogs.hashnode.dev/the-magic-of-this-call-apply-and-bind-in-javascript">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/call-bind-and-apply.png">
+    <p>
+  </a>
+
+<br>
+
+### [Understanding Object-Oriented Programming in JavaScript](https://js-blogs.hashnode.dev/understanding-object-oriented-programming-in-javascript)
+
+  <a href="https://js-blogs.hashnode.dev/understanding-object-oriented-programming-in-javascript">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/oops-in-js.png">
+    <p>
+  </a>
+
+<br>
+
+### [Understanding Objects in JavaScript](https://js-blogs.hashnode.dev/understanding-objects-in-javascript)
+
+  <a href="https://js-blogs.hashnode.dev/understanding-objects-in-javascript">
+      <p align=center>
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/objects-in-js.png">
+    <p>
+  </a>
+
+<br>
