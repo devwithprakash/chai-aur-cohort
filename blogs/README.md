@@ -64,7 +64,7 @@
 
   <a href="https://what-is-dns-and-record-types.hashnode.dev/dns-record-types-explained">
       <p align=center>
-      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/DNS-records.png"
+      <img width = "500px" alt="Jio Network blocking the view? Network switch reveals the magic!" src="./assets/DNS-records.png">
     <p>
   </a>
 
